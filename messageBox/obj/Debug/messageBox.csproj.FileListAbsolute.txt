@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\messageBox\obj\Debug\messageBox.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\messageBox\obj\Debug\messageBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\messageBox\obj\Debug\messageBox.Form1.resources
+C:\Users\ucenik\source\repos\messageBox\obj\Debug\messageBox.Properties.Resources.resources
+C:\Users\ucenik\source\repos\messageBox\obj\Debug\messageBox.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\messageBox\obj\Debug\messageBox.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\messageBox\bin\Debug\messageBox.exe.config
+C:\Users\ucenik\source\repos\messageBox\bin\Debug\messageBox.exe
+C:\Users\ucenik\source\repos\messageBox\bin\Debug\messageBox.pdb
+C:\Users\ucenik\source\repos\messageBox\obj\Debug\messageBox.exe
+C:\Users\ucenik\source\repos\messageBox\obj\Debug\messageBox.pdb
